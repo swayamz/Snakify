@@ -1,0 +1,8 @@
+sum = 0
+element = int(input())
+while element != 0:
+    sum += element
+    element = int(input())
+print(sum)
+
+#Determine the sum of all elements in the sequence, ending with the number 0. 

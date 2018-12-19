@@ -1,0 +1,22 @@
+
+floor(x) — returns the largest integer less than or equal to x,
+
+ceil(x) — returns the smallest integer greater than or equal to x,
+
+sqrt(x) — returns the square root of x,
+
+log(x) — returns the natural logarithm of x,
+
+log(x,a) — returns the logarithm of x to base a,
+
+pi is the mathematical constant pi = 3,1415926..
+
+e — is the mathematical constant e = 2,71828..
+
+sin(x) returns the sine of x in radians
+
+cos(x) returns the cosine of x in radians
+
+tan(x) returns the tangent function of x
+
+asin(x) returns the arcsine of x in radians

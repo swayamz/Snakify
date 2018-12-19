@@ -1,0 +1,9 @@
+26/26. Operations on lists
+You can easily do many different operations with lists.
+
+x in A Checks whether an item is in the list A. Returns True or False 
+x not in A Checks whether an item is not in the list A. Returns True or False 
+min(A) Returns the smallest element of list A 
+max(A) Returns the biggest element of list A 
+A.index(x) The index of the first occurrence of element x in the list; in its absence generates an exception ValueError 
+A.count(x) The number of occurrences of element x in the list 

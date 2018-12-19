@@ -1,0 +1,10 @@
+sum = 0
+len = 0
+element = int(input())
+while element != 0:
+    sum += element
+    len += 1
+    element = int(input())
+print(sum / len)
+
+#Determine the average of all elements of the sequence ending with the number 0. 
